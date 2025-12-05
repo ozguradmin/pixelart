@@ -1,0 +1,5 @@
+{
+  "name": "PixelGen AI",
+  "description": "Gemini-powered pixel art generator that converts prompts into pixel-perfect sprites at various resolutions.",
+  "requestFramePermissions": []
+}
